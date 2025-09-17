@@ -1,1 +1,1 @@
-These are the raw probabilistic maps as described from Amandola, Kidambi, & Leung, 2024. These are unthresholded, and should be thresholded before use in analysis.
+These are the raw probabilistic maps as described from Amandola, Farber, Kidambi, & Leung, 2025 (https://doi.org/10.1523/JNEUROSCI.0821-24.2025). These are unthresholded, and should be thresholded before use in analysis.
